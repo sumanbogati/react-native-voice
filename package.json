@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Sam Wenke <samwenke@gmail.com>",
   "peerDependencies": {
-    "react-native": ">=0.14 <0.35.0"
+    "react-native": ">=0.14"
   },
   "keywords": [
     "react-native",
